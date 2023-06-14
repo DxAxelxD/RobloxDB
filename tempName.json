@@ -1,0 +1,9 @@
+[
+    {
+        "id": "abc11",
+        "name": "Test item",
+        "description": "Did you expect something?... sorry",
+        "maxAmount": 99999,
+        "devItem": true
+    }
+]
