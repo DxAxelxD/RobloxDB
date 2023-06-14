@@ -6,4 +6,10 @@
         "maxAmount": 99999,
         "devItem": true
     }
+    {
+        "id": "qdj8L",
+        "name": "Iron Ore",
+        "description": "Lorem ipsus",
+        "maxAmount": 1000
+    }
 ]
