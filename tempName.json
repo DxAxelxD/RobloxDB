@@ -13,5 +13,13 @@
         "description": "Lorem ipsus",
         "maxAmount": 1000,
         "image": "http://www.roblox.com/asset/?id=257670439"
+    },
+    {
+        "id": "CuHIg",
+        "name": "Iron Ingot",
+        "description": "Lorem ipsus",
+        "maxAmount": 1000,
+        "image": "http://www.roblox.com/asset/?id=388003730",
+        "model": "Iron Ingot"
     }
 ]
