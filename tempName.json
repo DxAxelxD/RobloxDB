@@ -4,12 +4,14 @@
         "name": "Test item",
         "description": "Did you expect something?... sorry",
         "maxAmount": 99999,
-        "devItem": true
+        "devItem": true,
+        "image": "http://www.roblox.com/asset/?id=11460060891"
     },
     {
         "id": "qdj8L",
         "name": "Iron Ore",
         "description": "Lorem ipsus",
-        "maxAmount": 1000
+        "maxAmount": 1000,
+        "image": "http://www.roblox.com/asset/?id=257670439"
     }
 ]
