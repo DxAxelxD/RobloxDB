@@ -28,5 +28,19 @@
         "description": "Lorem ipsus",
         "maxAmount": 1000,
         "image": "http://www.roblox.com/asset/?id=257670479"
+    },
+    {
+        "id": "mF3dh",
+        "name": "Gold Ore",
+        "description": "Lorem ipsus",
+        "maxAmount": 1000,
+        "image": "http://www.roblox.com/asset/?id=443907458"
+    },
+    {
+        "id": "c1oUz",
+        "name": "Gold Ingot",
+        "description": "Lorem ipsus",
+        "maxAmount": 1000,
+        "image": "http://www.roblox.com/asset/?id=168243356"
     }
 ]
